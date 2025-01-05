@@ -1,5 +1,5 @@
 <!--lint ignore awesome-github-->
-# Awesome Web Archiving [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Web Archiving 
 
 Web archiving is a systematic process that involves the collection and preservation of specific segments of the World Wide Web. This practice is essential to ensure that valuable information remains accessible in an archive for future researchers, historians, and the general public. To facilitate this process, web archivists commonly utilize web crawlers, which are automated tools designed to capture vast amounts of web content efficiently, given the immense scale of the internet. As web standards continuously evolve, it is imperative for archiving tools to adapt and improve in order to keep pace with the rapid changes in web technologies. This ongoing evolution is crucial to guarantee that archived web pages can be captured and replayed in a reliable and meaningful manner, preserving the integrity and context of the original content.
 
